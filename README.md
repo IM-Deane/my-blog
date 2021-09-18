@@ -1,2 +1,2 @@
-# my-blog
-Created a small blog using Next.js, Strapi, and Apollo.
+# Tristan Deane Blog
+Created a small test blog using Next.js, Strapi, and Apollo.
